@@ -6,6 +6,7 @@ Pasos para ejecutar proyecto:
 2. Ejecutar ```npm install``` para reconstruir los módulos de node
 3. Correr el devServer ```npm run dev```
 4. Hacer cambio y subirlo al servidor
+5. crear rama nueva e integrarla
 
 ## Producción
 
